@@ -1,0 +1,8 @@
+C:\Users\Максим\source\repos\Rozetka\Rozetka\bin\Debug\Rozetka.exe.config
+C:\Users\Максим\source\repos\Rozetka\Rozetka\bin\Debug\Rozetka.exe
+C:\Users\Максим\source\repos\Rozetka\Rozetka\bin\Debug\Rozetka.pdb
+C:\Users\Максим\source\repos\Rozetka\Rozetka\obj\Debug\Rozetka.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Rozetka\Rozetka\obj\Debug\Rozetka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\Rozetka\Rozetka\obj\Debug\Rozetka.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Rozetka\Rozetka\obj\Debug\Rozetka.exe
+C:\Users\Максим\source\repos\Rozetka\Rozetka\obj\Debug\Rozetka.pdb
